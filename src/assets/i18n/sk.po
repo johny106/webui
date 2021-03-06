@@ -5,34 +5,34 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr "Integrovaní používatelia"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr "Integrované skupiny"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr "Skontroluj notifikácie pre viac informácií"
 
 msgid " Download Updates"
-msgstr ""
+msgstr "Stiahnuť aktualizácie"
 
 msgid " First vdev has "
-msgstr ""
+msgstr "Prvý VDEV má"
 
 msgid " First vdev is a "
-msgstr ""
+msgstr "Prvý VDEV je"
 
 msgid " KiB."
 msgstr ""
 
 msgid " Please click the button below to add "
-msgstr ""
+msgstr "Pre pridanie kliknite na tlačidlo nižšie"
 
 msgid " Plugin"
-msgstr ""
+msgstr "Zásuvný modul"
 
 msgid " Service"
-msgstr ""
+msgstr "Služba"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
@@ -70,28 +70,28 @@ msgid " but datastore "
 msgstr ""
 
 msgid " configured"
-msgstr ""
+msgstr "nakonfigurované"
 
 msgid " day, "
-msgstr ""
+msgstr "deň"
 
 msgid " days, "
-msgstr ""
+msgstr "dni"
 
 msgid " disks"
-msgstr ""
+msgstr "disky"
 
 msgid " disks, new vdev has "
-msgstr ""
+msgstr "disky, nový VDEv má"
 
 msgid " from the database."
-msgstr ""
+msgstr "z databázy"
 
 msgid " is "
-msgstr ""
+msgstr "je"
 
 msgid " is required."
-msgstr ""
+msgstr "je výžadované"
 
 msgid ""
 " is still running,  the Guest OS did not respond as expected. It is "
@@ -102,58 +102,58 @@ msgstr ""
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
 "system performance."
-msgstr ""
+msgstr "je minimálna odporúčaná veľkosť záznamu.Nastavenie nižšej hodnoty može narušiť výkon systému"
 
 msgid " minute"
-msgstr ""
+msgstr "minúta"
 
 msgid " minutes"
-msgstr ""
+msgstr "minúty"
 
 msgid " official plugins"
-msgstr ""
+msgstr "Oficiálny zásuvný modul"
 
 msgid " on pool "
-msgstr ""
+msgstr "na fond"
 
 msgid " seconds"
-msgstr ""
+msgstr "sekunda"
 
 msgid " seconds."
-msgstr ""
+msgstr "sekundy"
 
 msgid " service has been enabled."
-msgstr ""
+msgstr "Služba bola úspešne zapnutá"
 
 msgid " should be at least "
-msgstr ""
+msgstr "by malo byť minimálne"
 
 msgid " should be no more than "
-msgstr ""
+msgstr "by nemalo byť viac ako"
 
 msgid " successfully saved."
-msgstr ""
+msgstr "Úspešne uložené"
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr "Úspešne odomknuté"
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr "Systém je spustený a pripojený k sieti"
 
 msgid " to include all "
-msgstr ""
+msgstr "zahrnúť všetky"
 
 msgid " update successful"
-msgstr ""
+msgstr "Aktualizácia prebehla úspešne"
 
 msgid " updated."
-msgstr ""
+msgstr "aktualizované"
 
 msgid " yet."
-msgstr ""
+msgstr "ešte"
 
 msgid "% of all cores"
-msgstr ""
+msgstr % všetkých jadier""
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -161,78 +161,80 @@ msgid ""
 "encrypted pools, download and safely store the encryption key and any "
 "passphrase for it."
 msgstr ""
+"je šifrované! Ak dôjde k strate prístupovej frázy pre tento šifrovaný fond, „160“ budú údaje NEVRATNE STRATENÉ."
+"Pred exportom/odpojením „ 161 „šifrovaých súborov, si stiahnite a bezpečne uložte šifrovací kľúč a akúkoľvek“ 162 „prístupovú frázu"
 
 msgid "'. All data on that pool was destroyed."
-msgstr ""
+msgstr "Všetky dáta v tomto fonde boli stratené"
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr "24 Hodinový formát"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(Napríklad: 500 KiB, 500M, 2 TB)"
 
 msgid "(Legacy Encryption)"
 msgstr ""
 
 msgid "(No description)"
-msgstr ""
+msgstr "(Žiadny popis)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(Odstrániť fond z databázy)"
 
 msgid "(System Dataset Pool)"
-msgstr ""
+msgstr "(Systémový fond)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(hore v pravo), potom"
 
 msgid ", new vdev is "
-msgstr ""
+msgstr "Nový VDEV je"
 
 msgid "."
 msgstr ""
 
 msgid ". At least one is required."
-msgstr ""
+msgstr "Vyžaduje sa aspoň jeden"
 
 msgid ". Is this correct?"
-msgstr ""
+msgstr "Je to správne?"
 
 msgid "... Make sure the "
-msgstr ""
+msgstr "... uistite sa, že"
 
 msgid "0=Disabled, blank=inherit"
-msgstr ""
+msgstr "0=vypnuté, blank=predvolené"
 
 msgid "20 characters is the maximum length."
-msgstr ""
+msgstr "Maximálna dĺžka je 20 znakov"
 
 msgid "2FA"
-msgstr ""
+msgstr "Dvojstupňové overenie"
 
 msgid ": Automatic update check failed. Please check system network settings."
-msgstr ""
+msgstr ": Automatická kontrola aktualizácií zlyhala. Prosím skontroluj systémove nastavenia siete."
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
-msgstr ""
+msgstr "</b> odstráni zásuvný modul, všetky dáta a snapshoty s ním spojené."
 
 msgid "</i> cannot be running when deleting a mountpoint."
-msgstr ""
+msgstr "</i> nemôže byť spustený pri mazaní bodu pripojenia."
 
 msgid "</i> has started."
-msgstr ""
+msgstr "</i> bol spustený"
 
 msgid "</i> now?"
-msgstr ""
+msgstr "</i> teraz?"
 
 msgid "</i> stopped."
-msgstr ""
+msgstr "</i> zastavené."
 
 msgid "</i> updated."
-msgstr ""
+msgstr "</i> aktualizované"
 
 msgid "</i>. Data on the pool will not be accessible until the pool is unlocked."
-msgstr ""
+msgstr "</i>. Údaje o fonde nebudú prístupné, kým nebude fond odomknutý."
 
 msgid ""
 "</i>. Data on the pool will not be available after export. Data on the pool "
@@ -964,7 +966,7 @@ msgid "Add User"
 msgstr ""
 
 msgid "Add Vdev"
-msgstr ""
+msgstr "Pridať VDEV"
 
 msgid "Add Vdevs"
 msgstr ""
@@ -1008,16 +1010,16 @@ msgid ""
 msgstr ""
 
 msgid "Add one or more disks to be used for data."
-msgstr ""
+msgstr "Pridajte jeden alebo viac diskov, ktoré sa majú použiť pre dáta."
 
 msgid "Add one or more disks to extend the pool."
-msgstr ""
+msgstr "Pridajte jeden alebo viac diskov na rozšírenie fondu(poolu)."
 
 msgid "Add or Update a License"
-msgstr ""
+msgstr "Pridať alebo aktualizovať Licenciu"
 
 msgid "Add this user to additional groups."
-msgstr ""
+msgstr "Pridať tohto používateľa do ďalších skupín."
 
 msgid ""
 "Added disks are erased, then the pool is extended onto the new disks with "
@@ -1126,13 +1128,13 @@ msgid "Additional parameters."
 msgstr ""
 
 msgid "Address"
-msgstr ""
+msgstr "Adresa"
 
 msgid "Address space limit in bytes for the jail."
 msgstr ""
 
 msgid "Addresses"
-msgstr ""
+msgstr "Adresy"
 
 msgid ""
 "Adjust how often alert notifications are sent, use  the Frequency "
@@ -1156,46 +1158,46 @@ msgid ""
 msgstr ""
 
 msgid "Administrator Password"
-msgstr ""
+msgstr "Heslo správcu"
 
 msgid "Administrator password"
-msgstr ""
+msgstr "Heslo správcu"
 
 msgid "Administrators Group"
-msgstr ""
+msgstr "Skupina správcov"
 
 msgid "Adv. Power Management"
-msgstr ""
+msgstr "Pokročilá správa napájania"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Pokročilé"
 
 msgid "Advanced Details"
-msgstr ""
+msgstr "Pokročilé podrobnosti"
 
 msgid "Advanced Jail Creation"
 msgstr ""
 
 msgid "Advanced Mode"
-msgstr ""
+msgstr "Pokročilý Mód"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Pokročilé možnosti"
 
 msgid "Advanced Plugin Installation"
-msgstr ""
+msgstr "Pokročilá inštalácia zásuvného modulu"
 
 msgid "Advanced Power Management"
-msgstr ""
+msgstr "Pokročilá správa napájania"
 
 msgid "Advanced Remote Options"
-msgstr ""
+msgstr "Pokročilé možnosti diaľkového ovládania"
 
 msgid "Advanced Replication Creation"
 msgstr ""
 
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Pokročilé nastavenia"
 
 msgid ""
 "After entering the <b>Hostname, Username</b>, and <b>Password</b>, click "
@@ -1203,22 +1205,22 @@ msgid ""
 msgstr ""
 
 msgid "Alarms"
-msgstr ""
-
-msgid "Alert"
-msgstr ""
-
-msgid "Alert Services"
-msgstr ""
-
-msgid "Alert Settings"
-msgstr ""
+msgstr "Alarmy"
 
 msgid "Alerts"
-msgstr ""
+msgstr "Výstrahy"
+
+msgid "Alert Services"
+msgstr "Výstražné služby"
+
+msgid "Alert Settings"
+msgstr "Nastavenia Výstrah"
+
+msgid "Alerts"
+msgstr "Výstrahy"
 
 msgid "Algorithm"
-msgstr ""
+msgstr "Algoritmus"
 
 msgid "Alias"
 msgstr ""
@@ -1226,16 +1228,17 @@ msgstr ""
 msgid ""
 "Alias for the identical interface  on the other TrueNAS controller. The "
 "alias can be an IPv4 or IPv6 address."
-msgstr ""
+msgstr "Alias pre rovnaké rozhranie v druhom radiči TrueNAS. 
+"Alias môže byť adresa IPv4 alebo IPv6."
 
 msgid "Aliases"
-msgstr ""
+msgstr "Aliasy"
 
 msgid "Aliases must be 15 characters or less."
-msgstr ""
+msgstr "Aliasy môžu mať maximálne 15 znakov."
 
 msgid "All Disks"
-msgstr ""
+msgstr "Všetky disky"
 
 msgid ""
 "All built-in groups are  hidden by default. Use the gear icon (top-right) "
@@ -1253,101 +1256,104 @@ msgid ""
 msgstr ""
 
 msgid "All dirs"
-msgstr ""
+msgstr "Všetky priečinky"
 
 msgid "All users"
-msgstr ""
+msgstr "Všetci používatelia"
 
 msgid "Allocate RAM for the VM. Minimum value is 256 MiB."
-msgstr ""
+msgstr "Pridelte RAM pre VM. Minimálna hodnota je 256 MiB."
 
 msgid "Allocate a number of megabytes of RAM to the VM."
-msgstr ""
+msgstr "Prideľte virtuálnemu počítaču množstvo pamäte RAM."
 
 msgid "Allocate at least 256 MiB."
-msgstr ""
+msgstr "Pridelte najmenej 256 MiB."
 
 msgid "Allocate space for the new zvol."
-msgstr ""
+msgstr "Prideliť priestor pre nový zvol."
 
 msgid "Allow"
-msgstr ""
+msgstr "Povoliť"
 
 msgid "Allow "
 msgstr ""
 
 msgid "Allow All"
-msgstr ""
+msgstr "Povoliť všetko"
 
 msgid "Allow All Initiators"
-msgstr ""
+msgstr "Povoliť všetkých iniciátorov"
 
 msgid "Allow Anonymous Binding"
 msgstr ""
 
 msgid "Allow Anonymous Login"
-msgstr ""
+msgstr "Povoliť anonymnú väzbu"
 
 msgid "Allow Blocks Larger than 128KB"
-msgstr ""
+msgstr "Povoliť bloky väčšie ako 128 kB"
 
 msgid "Allow Compressed WRITE Records"
-msgstr ""
+msgstr "Povoliť komprimované záznamy WRITE"
 
 msgid "Allow DNS updates"
-msgstr ""
+msgstr "Povoliť aktualizácie DNS"
 
 msgid "Allow Duplicate GIDs"
-msgstr ""
+msgstr "Povoliť duplicitné GID"
 
 msgid "Allow Guest Access"
-msgstr ""
+msgstr "Povoliť prístup hostí"
 
 msgid "Allow Hosts"
-msgstr ""
+msgstr "Povoliť hostiteľov"
 
 msgid "Allow Kerberos Authentication"
-msgstr ""
+msgstr "Povoliť overenie protokolom Kerberos"
 
 msgid "Allow List"
-msgstr ""
+msgstr "Zoznam Povolení"
 
 msgid "Allow Local User Login"
-msgstr ""
+msgstr "Povoliť prihlásenie lokálneho používateľa"
 
 msgid "Allow New Files"
-msgstr ""
+msgstr "Povoliť Nové súbory"
 
 msgid "Allow Password Authentication"
-msgstr ""
+msgstr "Povoliť overenie heslom"
 
 msgid "Allow Root Login"
-msgstr ""
+msgstr "Povoliť prihlásenie ROOTa"
 
 msgid "Allow Specific"
-msgstr ""
+msgstr "Špecifické povolenia"
 
 msgid "Allow TCP Port Forwarding"
-msgstr ""
+msgstr "Povoliť TCP Port Forwarding"
 
 msgid "Allow Taking Empty Snapshots"
-msgstr ""
+msgstr "Povoliť vytváranie prázdnych Snapshotov"
 
 msgid "Allow Transfer Resumption"
-msgstr ""
+msgstr "Povoliť obnovenie prenosu"
 
 msgid "Allow Trusted Domains"
-msgstr ""
+msgstr "Povoliť dôveryhodné domény"
 
 msgid ""
 "Allow anonymous FTP logins with access to the  directory specified in "
 "<b>Path</b>."
-msgstr ""
+msgstr "Povoliť anonymné prihlásenie pomocou FTP s prístupom k adresáru uvedeného v"
+"<b>Path</b>."
 
 msgid ""
 "Allow any local user to log in. By default, only  members of the <i>ftp</i> "
 "group are allowed to log in."
-msgstr ""
+msgstr "Umožniť prihlásenie ktoréhokoľvek miestneho používateľa"
+"By default, only  members of the <i>ftp</i>
+!group are allowed to log in."
 
 msgid ""
 "Allow configuring a non-standard port to access the GUI over <i>HTTP</i>. "
@@ -1407,7 +1413,7 @@ msgid ""
 msgstr ""
 
 msgid "Allow non-root mount"
-msgstr ""
+msgstr "Povoliť pripojenie typu non-root"
 
 msgid ""
 "Allow or deny access to SYSV IPC message primitives. <br><b>Inherit</b>: "
@@ -1516,12 +1522,12 @@ msgid "Always Chroot"
 msgstr ""
 
 msgid "Always On"
-msgstr ""
+msgstr "Vždy zapnuté"
 
 msgid "Always pull image even if present on host."
 msgstr ""
 
-msgid "Always restart containers in a pod if they exit."
+msgid "er"
 msgstr ""
 
 msgid ""
@@ -1631,34 +1637,34 @@ msgid ""
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "Použiť"
 
 msgid "Apply Failover Upgrade"
-msgstr ""
+msgstr "Použiť Failover Upgrade"
 
 msgid "Apply Group"
-msgstr ""
+msgstr "Použiť skupinu"
 
 msgid "Apply Pending Updates"
-msgstr ""
+msgstr "Použiť čakajúce aktualizácie"
 
 msgid "Apply Pending update"
-msgstr ""
+msgstr "Použiť čakajúce aktualizácie"
 
 msgid "Apply Permissions Recursively"
-msgstr ""
+msgstr "Použiť rekurzívne povolenia"
 
 msgid "Apply Quotas to Selected Groups"
-msgstr ""
+msgstr "Použiť kvóty na vybrané skupiny"
 
 msgid "Apply Quotas to Selected Users"
-msgstr ""
+msgstr "Použiť kvóty na vybraných používateľov"
 
 msgid "Apply Update"
-msgstr ""
+msgstr "Použiť Aktualizáciu"
 
 msgid "Apply User"
-msgstr ""
+msgstr "Uložiž Používateľa"
 
 msgid "Apply permissions recursively"
 msgstr ""
@@ -1695,22 +1701,22 @@ msgid "Apr"
 msgstr ""
 
 msgid "Archive"
-msgstr ""
+msgstr "Archív"
 
 msgid "Are you sure you want to deregister TrueCommand Cloud Service?"
-msgstr ""
+msgstr "Naozaj chcete zrušiť registráciu cloudovej služby TrueCommand?"
 
 msgid "Are you sure you want to stop connecting to the TrueCommand Cloud Service?"
 msgstr ""
 
 msgid "Are you sure you want to sync from peer?"
-msgstr ""
+msgstr "Naozaj sa chcete prestať pripájať ku cloudovej službe TrueCommand?"
 
 msgid "Are you sure you want to sync to peer?"
 msgstr ""
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ste si istý?"
 
 msgid ""
 "Arrange the disks according to capacity, redundancy, and  performance "
@@ -1725,10 +1731,10 @@ msgid ""
 msgstr ""
 
 msgid "Associated Target"
-msgstr ""
+msgstr "Priradený cieľ"
 
 msgid "Associated Targets"
-msgstr ""
+msgstr "Priradené ciele"
 
 msgid ""
 "At least one module must be defined in <a                "
@@ -1738,25 +1744,25 @@ msgid ""
 msgstr ""
 
 msgid "At least one pod must be available"
-msgstr ""
+msgstr "Musí byť k dispozícii aspoň jeden pod"
 
 msgid "At least one pool must be available to use apps"
-msgstr ""
+msgstr "Na používanie aplikácií musí byť k dispozícii aspoň jeden fond"
 
 msgid "Attach"
-msgstr ""
+msgstr "Priložiť"
 
 msgid "Attach Debug"
-msgstr ""
+msgstr "Priložiž Debug"
 
 msgid "Attach NIC"
-msgstr ""
+msgstr "Priložiť NIC"
 
 msgid "Attach screenshots."
-msgstr ""
+msgstr "Priložiť Screenshoty"
 
 msgid "Attention"
-msgstr ""
+msgstr "POZOR"
 
 msgid "Aug"
 msgstr ""
@@ -1780,31 +1786,31 @@ msgid ""
 msgstr ""
 
 msgid "Authentication"
-msgstr ""
+msgstr "Overenie"
 
 msgid "Authentication Advanced Options"
-msgstr ""
+msgstr "Pokročilé možnosti overenia"
 
 msgid "Authentication Algorithm"
-msgstr ""
+msgstr "Overovací algoritmus"
 
 msgid "Authentication Group Number"
-msgstr ""
+msgstr "Overenie čísla skupiny"
 
 msgid "Authentication Method"
-msgstr ""
+msgstr "Overovacia metóda"
 
 msgid "Authentication Method and Group"
-msgstr ""
+msgstr "Metóda a skupina overenia"
 
 msgid "Authentication Protocol"
-msgstr ""
+msgstr "Overovací protokol"
 
 msgid "Authentication Type"
-msgstr ""
+msgstr "Typ overenia"
 
 msgid "Authentication URL"
-msgstr ""
+msgstr "Overovacia URL"
 
 msgid ""
 "Authentication URL for the server. This is the OS_AUTH_URL from an <a "
@@ -1813,10 +1819,10 @@ msgid ""
 msgstr ""
 
 msgid "Authenticator"
-msgstr ""
+msgstr "Autentifikátor"
 
 msgid "Authenticator Attributes"
-msgstr ""
+msgstr "Atribúty autentifikátora"
 
 msgid ""
 "Authenticator to validate the Domain. Choose a previously configured ACME "
@@ -1824,28 +1830,28 @@ msgid ""
 msgstr ""
 
 msgid "Authority Cert Issuer"
-msgstr ""
+msgstr "Vydavateľ certifikačných autorít"
 
 msgid "Authority Key Config"
-msgstr ""
+msgstr "Konfigurácia autorizačného kľúča"
 
 msgid "Authority Key Identifier"
-msgstr ""
+msgstr "Identifikátor autorizačného kľúča"
 
 msgid "Authorized Access"
 msgstr ""
 
 msgid "Authorized Hosts and IP addresses"
-msgstr ""
+msgstr "Autorizovaný prístup"
 
 msgid "Authorized Networks"
-msgstr ""
+msgstr "Autorizované siete"
 
 msgid "Auto TRIM"
 msgstr ""
 
 msgid "Auto configure IPv6"
-msgstr ""
+msgstr "Automatická konfigurácia protokolu IPv6"
 
 msgid ""
 "Auto-populates with information from the <b>Realm</b> when the settings in "
@@ -1856,10 +1862,10 @@ msgid "Auto-start"
 msgstr ""
 
 msgid "Autoconfigure IPv6"
-msgstr ""
+msgstr "Automatická konfigurácia protokolu IPv6"
 
 msgid "Autoconfigure IPv6 with rtsold"
-msgstr ""
+msgstr "Automatická konfigurácia protokolu IPv6 s rtsold"
 
 msgid "Automatic scrub interval (in days)"
 msgstr ""
@@ -1870,64 +1876,64 @@ msgid ""
 msgstr ""
 
 msgid "Automatically reboot the system after the update is applied."
-msgstr ""
+msgstr "Interval automatického čistenia (v dňoch)"
 
 msgid "Automatically stop the script or command after the specified seconds."
-msgstr ""
+msgstr "Po zadaných sekundách automaticky zastaví skript alebo príkaz."
 
 msgid "Autostart"
-msgstr ""
+msgstr "Automatický štart"
 
 msgid "Auxiliary Arguments"
-msgstr ""
+msgstr "Pomocné argumenty"
 
 msgid "Auxiliary Groups"
-msgstr ""
+msgstr "Pomocné skupiny"
 
 msgid "Auxiliary Parameters"
-msgstr ""
+msgstr "Pomocné parametre"
 
 msgid "Auxiliary Parameters (ups.conf)"
-msgstr ""
+msgstr "Pomocné parametre (ups.conf)"
 
 msgid "Auxiliary Parameters (upsd.conf)"
-msgstr ""
+msgstr "Pomocné parametre (upsd.conf)"
 
 msgid "Auxiliary parameters"
-msgstr ""
+msgstr "Pomocné parametre"
 
 msgid "Available"
-msgstr ""
+msgstr "K dispozícii"
 
 msgid "Available Disks"
-msgstr ""
+msgstr "Dostupné disky"
 
 msgid "Available Memory:"
-msgstr ""
+msgstr "Dostupná pamäť"
 
 msgid "Available Plugins"
-msgstr ""
+msgstr "Dostupné zásuvné moduly"
 
 msgid "Available Space"
-msgstr ""
+msgstr "Dostupné miesto"
 
 msgid "Available Space Threshold (%)"
-msgstr ""
+msgstr "Prah dostupného priestoru (%)"
 
 msgid "Available Themes"
-msgstr ""
+msgstr "Dostupné Témy"
 
 msgid "Awesome! Now let's explore FreeNAS's cool features."
-msgstr ""
+msgstr "Skvelé! Teraz poďme preskúmať skvelé funkcie TrueNAS."
 
 msgid "BPF is required."
-msgstr ""
+msgstr "Vyžaduje sa BPF."
 
 msgid "Back"
-msgstr ""
+msgstr "Späť"
 
 msgid "Back to Support"
-msgstr ""
+msgstr "Späť na podporu"
 
 msgid ""
 "Back up the encryption key now! If the key is lost, the data on the disks "
@@ -1948,58 +1954,58 @@ msgid ""
 msgstr ""
 
 msgid "Background (lowest)"
-msgstr ""
+msgstr "Pozadie (najnižšie)"
 
 msgid "Backup Credentials"
-msgstr ""
+msgstr "Poverenia zálohovania"
 
 msgid "Bandwidth"
-msgstr ""
+msgstr "Šírka pásma"
 
 msgid "Bandwidth Limit"
-msgstr ""
+msgstr "Limit šírky pásma"
 
 msgid "Base DN"
 msgstr ""
 
 msgid "Base Name"
-msgstr ""
+msgstr "Základný názov"
 
 msgid "Base64 encoded key for the Azure account."
-msgstr ""
+msgstr "Kódovaný kľúč Base64 pre účet Azure."
 
 msgid "Basejail"
 msgstr ""
 
 msgid "Basic"
-msgstr ""
+msgstr "Základné"
 
 msgid "Basic Constraints"
-msgstr ""
+msgstr "Základné obmedzenia"
 
 msgid "Basic Constraints Config"
 msgstr ""
 
 msgid "Basic Info"
-msgstr ""
+msgstr "Základné info"
 
 msgid "Basic Mode"
-msgstr ""
+msgstr "Základný mód"
 
 msgid "Basic Options"
-msgstr ""
+msgstr "Základné možnosti"
 
 msgid "Basic Properties"
-msgstr ""
+msgstr "Základné vlastnosti"
 
 msgid "Batch Operations"
-msgstr ""
+msgstr "Dávkové operácie"
 
 msgid "Before updating, please read the release notes."
-msgstr ""
+msgstr "Pred aktualizáciou si prečítajte poznámky k vydaniu."
 
 msgid "Begin"
-msgstr ""
+msgstr "Začať"
 
 msgid ""
 "Beginning in 2013, Apple began using the SMB sharing protocol as the "
@@ -2015,22 +2021,22 @@ msgid "Best effort (default)"
 msgstr ""
 
 msgid "Bind"
-msgstr ""
+msgstr "Viazať"
 
 msgid "Bind DN"
 msgstr ""
 
 msgid "Bind IP Addresses"
-msgstr ""
+msgstr "Viazanie adries IP"
 
 msgid "Bind Interfaces"
-msgstr ""
+msgstr "Viazať rozhrania"
 
 msgid "Bind Password"
-msgstr ""
+msgstr "Zviazať heslo"
 
 msgid "Bind to"
-msgstr ""
+msgstr "Viazať na"
 
 msgid "Bind to Port"
 msgstr ""
@@ -2039,42 +2045,44 @@ msgid "Block Shares (iSCSI)"
 msgstr ""
 
 msgid "Block Size"
-msgstr ""
+msgstr "Veľkosť bloku"
 
 msgid "Block size"
-msgstr ""
+msgstr "Veľkosť bloku"
 
 msgid "Boot"
-msgstr ""
+msgstr "Bootovanie(Zavádzač)"
 
 msgid "Boot Environment"
-msgstr ""
+msgstr "Bootovacie prostredie"
 
 msgid "Boot Environments"
-msgstr ""
+msgstr "Bootovacie prostredia"
 
 msgid "Boot Loader Type"
-msgstr ""
+msgstr "Typ Bootavacieho zariadenia"
 
 msgid "Boot Method"
-msgstr ""
+msgstr "Metóda Bootovania"
 
 msgid "Boot Pool Condition"
-msgstr ""
+msgstr "Stav bootovacieho fondu"
 
 msgid "Boot Pool Status"
-msgstr ""
+msgstr "Stav bootovacieho fondu"
 
 msgid ""
 "Boot environment name. Alphanumeric characters, dashes (-), underscores "
 "(_),     and periods (.) are allowed."
-msgstr ""
+msgstr 
+"Názov bootovacieho prostredia."
+"Alfanumerické znaky, pomlčky (-), podčiarkovníky " 2076 „(_) a bodky (.) sú povolené."
 
 msgid "Boot environment to be cloned."
-msgstr ""
+msgstr "Bootovacie prostredie, ktoré sa má naklonovať."
 
 msgid "Bot API Token"
-msgstr ""
+msgstr "Token API rozhrania Bot"
 
 msgid ""
 "Brainpool curves can be more secure, while secp curves can be faster. See "
@@ -2085,19 +2093,19 @@ msgid ""
 msgstr ""
 
 msgid "Bridge Members"
-msgstr ""
+msgstr "Členovia mosta"
 
 msgid "Bridge Settings"
-msgstr ""
+msgstr "Nastavenia mosta"
 
 msgid "Browsable to Network Clients"
-msgstr ""
+msgstr "Prehliadateľné pre sieťových klientov"
 
 msgid "Browse a Collection"
-msgstr ""
+msgstr "Prejsť zbierku"
 
 msgid "Browse to a CD-ROM file present on the system storage."
-msgstr ""
+msgstr "Prejdite na súbor CD-ROM, ktorý sa nachádza v systémovom úložisku."
 
 msgid ""
 "Browse to a storage location and add the name of the new raw file on the "
@@ -2123,16 +2131,16 @@ msgid ""
 msgstr ""
 
 msgid "Browse to an existing pool or dataset to store the new zvol."
-msgstr ""
+msgstr "Prejdite do existujúceho fondu alebo súboru údajov a uložte nový zvol."
 
 msgid "Browse to the ZFS dataset that will hold the copied data."
-msgstr ""
+msgstr "Prejdite na súbor údajov ZFS, ktorý bude obsahovať kopírované údaje."
 
 msgid "Browse to the desired zvol on the disk."
-msgstr ""
+msgstr "Prejdite na požadovaný zvolený disk."
 
 msgid "Browse to the directory for the S3 filesystem."
-msgstr ""
+msgstr "Prejdite do adresára súborového systému S3"
 
 msgid ""
 "Browse to the directory on the system which will be accessed by the jail. "
@@ -2150,16 +2158,16 @@ msgid ""
 msgstr ""
 
 msgid "Browse to the installer image file and click <b>Upload</b>."
-msgstr ""
+msgstr "Prejdite na súbor s obrázkom inštalačného programu a kliknite na tlačidlo <b> Nahrať </b>."
 
 msgid "Browse to the keytab file to upload."
-msgstr ""
+msgstr "Prejdite na súbor tabuľky kľúčov a odovzdajte ho."
 
 msgid "Browse to the locally saved configuration file."
-msgstr ""
+msgstr "Prejdite na lokálne uložený konfiguračný súbor."
 
 msgid "Browse to the operating system installer image file."
-msgstr ""
+msgstr "Prejdite na obrazový súbor inštalačného programu operačného systému."
 
 msgid ""
 "Browse to the path to be copied. FreeBSD  file path limits apply. Other "
@@ -2211,7 +2219,7 @@ msgid ""
 msgstr ""
 
 msgid "CA"
-msgstr ""
+msgstr "Certifikát (CA)"
 
 msgid "CA ID"
 msgstr ""
@@ -2235,7 +2243,7 @@ msgid "CLEAR SYNC KEYS"
 msgstr ""
 
 msgid "CLOSE"
-msgstr ""
+msgstr "Zavrieť"
 
 msgid "CN"
 msgstr ""
@@ -2244,7 +2252,7 @@ msgid "CN Realm"
 msgstr ""
 
 msgid "CONNECT"
-msgstr ""
+msgstr "PRIPOJIŤ"
 
 msgid "COPY TO CLIPBOARD"
 msgstr ""
